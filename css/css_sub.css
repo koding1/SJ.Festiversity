@@ -1,0 +1,94 @@
+body{
+  height:100%;
+}
+
+#logo{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 17%;
+  width: 100%;
+  /* Preserve aspet ratio */
+  /*#min-width: 23%;
+  min-height: 23%;*/
+}
+
+#sejong{
+  margin-top: 150px;
+  margin-left: 100px;
+}
+#member{
+  margin-left: 100px;
+}
+#after{
+  margin-left: 100px;
+}
+table.type07 {
+    border-collapse: collapse;
+    text-align: left;
+    line-height: 1.5;
+    border: 1px solid #ccc;
+    margin-left: 100px;
+}
+table.type07 thead {
+    border-right: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    background: #e7708d;
+}
+table.type07 thead th {
+    padding: 10px;
+    font-weight: bold;
+    vertical-align: top;
+    color: #fff;
+}
+table.type07 tbody th {
+    width: 150px;
+    padding: 10px;
+    font-weight: bold;
+    vertical-align: top;
+    border-bottom: 1px solid #ccc;
+    background: #fcf1f4;
+}
+table.type07 td {
+    width: 50px;
+    padding: 10px;
+    vertical-align: top;
+    border-bottom: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    text-align: center;
+}
+table.type07 td.a {
+    width: 500px;
+    padding: 10px;
+    vertical-align: top;
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+}
+
+table.type09 {
+    border-collapse: collapse;
+    text-align: left;
+    line-height: 1.5;
+    margin-left: 100px;
+}
+table.type09 thead th {
+    padding: 10px;
+    font-weight: bold;
+    vertical-align: top;
+    color: #e7708d;
+    border-bottom: 3px solid #feaec9;
+}
+table.type09 tbody th {
+    width: 150px;
+    padding: 10px;
+    font-weight: bold;
+    vertical-align: top;
+    border-bottom: 1px solid #fff;
+    background: #fcf1f4;
+}
+table.type09 td {
+    width: 850px;
+    padding: 10px;
+    vertical-align: top;
+    border-bottom: 1px solid #ccc;
+}
